@@ -1,0 +1,98 @@
+{
+  "name": "app-home-main",
+  "version": "1.3.0",
+  "commons": {
+    "version": "3.0.0",
+    "preload": [
+      "react@16.12.0",
+      "styled-components@5.0.1",
+      "react-router-dom@5.1.2",
+      "react-i18next@11.3.3",
+      "react-dom@16.12.0",
+      "i18next@19.1.0"
+    ],
+    "dependencies": [
+      "react-dom@16.12.0/server",
+      "classnames@2.2.6",
+      "i18next@19.1.0",
+      "numeral@2.0.6",
+      "react@16.12.0",
+      "react-dom@16.12.0",
+      "react-i18next@11.3.3",
+      "react-is@16.12.0",
+      "react-router-dom@5.1.2",
+      "redux@4.0.5",
+      "regenerator-runtime@0.13.3",
+      "styled-components@5.0.1",
+      "uuid@3.4.0"
+    ]
+  },
+  "assets": [
+    {
+      "path": "static/css/main.857adb16.css",
+      "isChunk": true,
+      "modules": 19,
+      "size": 108485,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "app-home-main@1.3.0.js",
+      "isChunk": true,
+      "modules": 19,
+      "size": 108485,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "app-home-main@1.3.0.js.map",
+      "isChunk": true,
+      "modules": 19,
+      "size": 108485,
+      "isInitial": true,
+      "isAsset": false,
+      "isModuleAsset": false
+    },
+    {
+      "path": "index.html",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "precache-manifest.711bcebacf4b7ad64e2885e699714772.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "service-worker.js",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    },
+    {
+      "path": "static/css/main.857adb16.css.map",
+      "isChunk": false,
+      "modules": 0,
+      "size": 0,
+      "isInitial": false,
+      "isAsset": true,
+      "isModuleAsset": false
+    }
+  ],
+  "legacy": {
+    "dependencies": []
+  }
+}

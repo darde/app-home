@@ -1,0 +1,11 @@
+{
+  "name": "@resultadosdigitais/app-home",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "dependencies": {
+    "lerna": "3.22.1"
+  }
+}

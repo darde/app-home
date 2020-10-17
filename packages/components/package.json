@@ -1,0 +1,37 @@
+{
+  "name": "@resultadosdigitais/app-home-components",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],  
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "devDependencies": {
+    "@resultadosdigitais/browserslist-config": "^1.0.0",
+    "@resultadosdigitais/eslint-config-react": "^1.0.0",
+    "@resultadosdigitais/prettier-config": "^1.0.0",
+    "@babel/core": "^7.9.0",
+    "@storybook/addon-actions": "^5.3.18",
+    "@storybook/addon-links": "^5.3.18",
+    "@storybook/addons": "^5.3.18",
+    "@storybook/react": "^5.3.18",
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "styled-components": "^5.1.0"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "styled-components": "^5.1.0"
+  },
+  "browserslist": [
+    "extends @resultadosdigitais/browserslist-config/plataform"
+  ]
+}
