@@ -18,8 +18,7 @@
   "devDependencies": {
     "@resultadosdigitais/browserslist-config": "^1.0.0",
     "@resultadosdigitais/eslint-config-react": "^1.0.0",
-    "@resultadosdigitais/front-hub": "/home/pablo/workspace/front-hub/packages/front-hub/resultadosdigitais-front-hub-v2.2.0-next.40.tgz",
-    "@resultadosdigitais/front-hub-commons": "^3.0.0",
+    "@resultadosdigitais/front-hub": "/home/pablo/workspace/front-hub/packages/front-hub/resultadosdigitais-front-hub-v2.2.0-next.176.tgz",
     "@resultadosdigitais/prettier-config": "^1.0.0",
     "@resultadosdigitais/tangram-components": "^1.0.6",
     "@resultadosdigitais/tangram-design-tokens": "^1.0.2",
@@ -47,7 +46,9 @@
     "react-router-dom": "^5.1.2",
     "styled-components": "^5.1.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@resultadosdigitais/front-hub-commons": "^3.0.2"
+  },
   "browserslist": [
     "extends @resultadosdigitais/browserslist-config/plataform"
   ]
